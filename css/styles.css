@@ -2,6 +2,8 @@ body {
 	background-color: blue;
 }
 
-h1 {
-	color: white;
+#my-box {
+	width:100px;
+	height: 100px;
+	background-color: red; 
 }
